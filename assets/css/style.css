@@ -75,7 +75,8 @@ header nav ul li a {
 
 /* info card styles start */
 .info-card {
-    margin-left: 120px;
+    margin-left: 100px;
+    margin-bottom: 40px;
     background-color: gold;
     padding: 20px;
     width: 440px;
@@ -84,9 +85,31 @@ header nav ul li a {
 
 .info-card h4 {
     margin: 0;
-  }
+}
   
 /* info card styles end */
+
+
+/* main body text styles start */
+
+.intro h3 {
+    color: grey;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 0px;
+    border-bottom: 3px solid;
+    border-color: gold;
+    width: 80%;
+    margin: 0 auto 18px;
+}
+
+.intro p {
+    line-height: 1.7;
+    color: slategray;
+    font-size: 20px;
+    width: 80%;
+    margin: 0 auto 18px;
+  }
+/* main body text styles end */
 
 
 /* footer styles start */

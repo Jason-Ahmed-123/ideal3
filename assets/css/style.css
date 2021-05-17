@@ -64,7 +64,24 @@ header nav ul li a {
     margin: auto;
     width: 80%;
 }
+
+.carousel-item {
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
 /* carousel styles end */
+
+
+/* info card styles start */
+.info-card {
+    margin-left: 120px;
+    background-color: gold;
+    padding: 20px;
+    width: 440px;
+    box-shadow: 10px 5px 5px gray;
+}
+/* info card styles end */
 
 
 /* footer styles start */
@@ -92,5 +109,5 @@ footer ul li a {
 
 /* to give all the sections a consistent look */
 section {
-    padding: 60px;
+    padding: 30px 60px 60px 60px;
 }

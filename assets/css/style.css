@@ -12,8 +12,15 @@ body {
 
 /* header styles start */
 header {
-    padding: 6px 35px;
+    padding: 2px 35px;
     background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
 }
 
 header h1 {

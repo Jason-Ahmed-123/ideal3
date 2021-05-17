@@ -46,10 +46,18 @@ header nav ul li a {
 /* banner styles start */
 .banner {
     background: gold;
-    padding: 18px 35px;
+    padding: 12px 35px;
     text-align: center;
 }
 /* banner styles end */
+
+
+/* carousel styles start */
+.carousel {
+    margin: auto;
+    width: 80%;
+}
+/* carousel styles end */
 
 
 /* footer styles start */

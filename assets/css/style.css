@@ -81,6 +81,11 @@ header nav ul li a {
     width: 440px;
     box-shadow: 10px 5px 5px gray;
 }
+
+.info-card h4 {
+    margin: 0;
+  }
+  
 /* info card styles end */
 
 

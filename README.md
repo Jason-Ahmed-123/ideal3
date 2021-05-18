@@ -1,6 +1,5 @@
 # ideal3
 
-## Website
 https://jason-ahmed-123.github.io/ideal3/
 
 ## Screenshot

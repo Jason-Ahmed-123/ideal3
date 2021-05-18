@@ -96,7 +96,6 @@ header nav ul li a {
 
 
 /* main body text styles start */
-
 .intro h3 {
     color: grey;
     margin-bottom: 35px;
@@ -122,14 +121,47 @@ header nav ul li a {
     color: gold;
     margin: 5px 0 15px 0;
 }
+
+.contact-form {
+    background-color: slategray;
+    padding: 20px;
+    width: 288px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex: 1;
+    margin: 24px 0 18px 0;
+    color: gold;
+}
+
+.contact-form input, .contact-form textarea {
+    border: 1px solid slategray;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: slategray;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.contact-form button {
+    width: 100%;
+    border: none;
+    background: gold;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 16px;
+}
 /* main body text styles end */
 
 
 /* footer styles start */
 footer {
     background: gold;
-    width: 100%;
-    padding: 18px 35px;
+    width: 100vw;
+    padding: 18px;
 }
 
 footer div {

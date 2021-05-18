@@ -135,6 +135,10 @@ header nav ul li a:hover {
     margin: 5px 0 15px 0;
 }
 
+.card a {
+    color: #000000;
+}
+
 .contact-form {
     background-color: slategray;
     border-radius: 15px;

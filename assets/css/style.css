@@ -89,8 +89,7 @@ header nav ul li a {
 
 .info-card h4 {
     margin: 0;
-}
-  
+}  
 /* info card styles end */
 
 
@@ -112,7 +111,15 @@ header nav ul li a {
     font-size: 20px;
     width: 80%;
     margin: 0 auto 18px;
-  }
+}
+
+.card {
+    background-color: slategray;
+    padding: 20px;
+    width: 500px;
+    color: gold;
+    margin: 5px 0 15px 0;
+}
 /* main body text styles end */
 
 

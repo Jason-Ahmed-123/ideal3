@@ -50,8 +50,16 @@ header nav ul {
 
 header nav ul li a {
     margin: 0 30px;
+    padding: 8px 12px;
     font-weight: lighter;
     font-size: 18px;
+}
+
+header nav ul li a:hover {
+    background: gold;
+    color: #000000;
+    border-radius: 15px;
+    text-shadow: none;
 }
 /* header styles end */
 
@@ -116,6 +124,8 @@ header nav ul li a {
 
 .card {
     background-color: slategray;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
     padding: 20px;
     width: 500px;
     color: gold;
@@ -124,6 +134,8 @@ header nav ul li a {
 
 .contact-form {
     background-color: slategray;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
     padding: 20px;
     width: 288px;
     display: flex;
@@ -136,24 +148,31 @@ header nav ul li a {
 
 .contact-form input, .contact-form textarea {
     border: 1px solid slategray;
+    border-radius: 10px;
     display: block;
     padding: 7px 15px;
     font-size: 16px;
     color: slategray;
     width: 100%;
     margin-bottom: 15px;
-    margin-top: 5px;
+    margin-top: 5px;   
 }
 
 .contact-form button {
     width: 100%;
     border: none;
+    border-radius: 10px;
     background: gold;
     color: #000000;
     text-align: center;
     padding: 10px 0;
     font-size: 16px;
 }
+
+.contact-form button:hover {
+    color: #ffffff;
+    background: #39a6b2;
+  }
 /* main body text styles end */
 
 

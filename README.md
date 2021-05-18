@@ -9,7 +9,7 @@ Commercial General Liability Insurance business website.
 * Bootstrap
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jason-ahmed-123.github.io/ideal3/
 
 ## Contribution
 Made with ❤️ by Jason Ahmed
